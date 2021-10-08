@@ -1,8 +1,13 @@
-Hi, I’m Mathiarasi 
+Hi,There  I’m Mathiarasi 
 -  I’m interested developing Web and mobile apps
 -  I’m currently learning MERN STACK
 -  I’m looking to collaborate on handson web development project
--  How to reach me  mathi2002nagaraj@gmail.com
+
+
+Connect with me :
+-  mathi2002nagaraj@gmail.com
+-  https://t.me/Mathiarasi_Nagaraj
+-  https://www.linkedin.com/in/mathiarasi-nagaraj-4032b71b6/
 
 
 Programming Languages  Known  :
@@ -17,7 +22,8 @@ Programming Languages  Known  :
 
 Tools Known   :
 
-![image](https://user-images.githubusercontent.com/69353674/136582688-f8585aa4-74e8-498b-bd9b-683342a75e28.png)   ![image](https://user-images.githubusercontent.com/69353674/136582830-9479bd6b-2ac7-4236-9a55-099118ceac0b.png)   ![image](https://user-images.githubusercontent.com/69353674/136584503-36958aa7-ac42-435a-84ab-559631326020.png)
+![image](https://user-images.githubusercontent.com/69353674/136582688-f8585aa4-74e8-498b-bd9b-683342a75e28.png)   ![image](https://user-images.githubusercontent.com/69353674/136582830-9479bd6b-2ac7-4236-9a55-099118ceac0b.png)   ![image](https://user-images.githubusercontent.com/69353674/136584793-146e1292-ca92-49f1-a9b7-d75f4624edda.png)
+
 
 
 
